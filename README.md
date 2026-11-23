@@ -10,7 +10,7 @@ It connects students, faculty, and administrators through a centralized platform
 
 ## Live Website
 
-**Live Demo:** [Visit LabLink](PASTE_YOUR_PUBLISHED_WEBSITE_URL_HERE)
+**Live Demo:** https://lablink-4u.ai.studio/
 
 **GitHub Repository:** https://github.com/cktanuja367-wq/linklab
 
