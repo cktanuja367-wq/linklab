@@ -13,7 +13,7 @@ It connects students, faculty, and administrators through a centralized platform
 **Live Demo:** https://lablink-4u.ai.studio/
 
 **GitHub Repository:** https://github.com/cktanuja367-wq/linklab
-
+password for admin and facunlty is TANUJA@4567CK and TANUJA@1234CK
 ---
 
 ## The Problem
