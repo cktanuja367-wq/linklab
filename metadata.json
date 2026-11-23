@@ -1,0 +1,6 @@
+{
+  "name": "LabLink",
+  "description": "Discover, explore, and book specialised campus laboratory equipment with AI discovery, safety verification, and 60/40 fair allocation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
